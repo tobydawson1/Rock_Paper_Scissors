@@ -2,14 +2,7 @@
 
 # RPS Challenge
 
-Instructions
--------
-
-* Challenge time: rest of the day and weekend, until Monday 9am
-* Feel free to use google, your notes, books, etc. but work on your own
-* If you refer to the solution of another coach or student, please put a link to that in your README
-* If you have a partial solution, **still check in a partial solution**
-* You must submit a pull request to this repo with your code by 9am Monday morning
+[Task](#Task) | [Installation](#Installation) | [Bowling — how does it work?](#Bowling) |
 
 Task
 ----
@@ -19,6 +12,8 @@ Knowing how to build web applications is getting us almost there as web develope
 The Makers Academy Marketing Array ( **MAMA** ) have asked us to provide a game for them. Their daily grind is pretty tough and they need time to steam a little.
 
 Your task is to provide a _Rock, Paper, Scissors_ game for them so they can play on the web with the following user stories:
+
+# User Soti
 
 ```
 As a marketeer
