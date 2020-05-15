@@ -1,3 +1,5 @@
+## Makers Academy - Week 3 Weekend Project
+
 # RPS Challenge
 
 Instructions
