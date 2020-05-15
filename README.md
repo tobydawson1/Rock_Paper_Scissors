@@ -2,7 +2,7 @@
 
 # RPS Challenge
 
-[Task](#Task) | [User Stories](#stories) | [Bowling — how does it work?](#Bowling) |
+[Task](#Task) | [User Stories](#stories) | [Functionality](#Functionality) | [Basic Rules](#Rules)|
 
 Task
 ----
@@ -25,7 +25,7 @@ So that I can enjoy myself away from the daily grind
 I would like to be able to play rock/paper/scissors
 ```
 
-Hints on functionality
+# Functionality
 
 - the marketeer should be able to enter their name before the game
 - the marketeer will be presented the choices (rock, paper and scissors)
@@ -33,22 +33,7 @@ Hints on functionality
 - the game will choose a random option
 - a winner will be declared
 
-
-As usual please start by
-
-* Forking this repo
-* TEST driving development of your app
-
-
-## Bonus level 1: Multiplayer
-
-Change the game so that two marketeers can play against each other ( _yes there are two of them_ ).
-
-## Bonus level 2: Rock, Paper, Scissors, Spock, Lizard
-
-Use the _special_ rules ( _you can find them here http://en.wikipedia.org/wiki/Rock-paper-scissors-lizard-Spock_ )
-
-## Basic Rules
+<a name="Rules">Basic Rules</a>
 
 - Rock beats Scissors
 - Scissors beats Paper
