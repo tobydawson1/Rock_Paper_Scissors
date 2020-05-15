@@ -2,7 +2,7 @@
 
 # RPS Challenge
 
-[Task](#Task) | [Installation](#Installation) | [Bowling — how does it work?](#Bowling) |
+[Task](#Task) | [User Stories](#stories) | [Bowling — how does it work?](#Bowling) |
 
 Task
 ----
@@ -13,7 +13,7 @@ The Makers Academy Marketing Array ( **MAMA** ) have asked us to provide a game 
 
 Your task is to provide a _Rock, Paper, Scissors_ game for them so they can play on the web with the following user stories:
 
-# User Soti
+## <a name="stories">User Stories</a>
 
 ```
 As a marketeer
