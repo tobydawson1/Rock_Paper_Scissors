@@ -1,6 +1,6 @@
 ## Makers Academy - Week 3 Weekend Project
 
-# RPS Challenge
+# Rock Paper Scissors Challenge
 
 [Task](#Task) | [User Stories](#stories) | [Functionality](#Functionality) | [Basic Rules](#Rules)| [Testing](#Testing) |
 
@@ -44,6 +44,6 @@ I would like to be able to play rock/paper/scissors
 Testing was done through the frameworks RSpec and Capybara
 
 ```
-cd Bookmarks
+cd Rock_Paper_Scissors
 rspec
 ```
